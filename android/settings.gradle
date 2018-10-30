@@ -1,0 +1,3 @@
+rootProject.name = 'BTMovies'
+
+include ':app'
